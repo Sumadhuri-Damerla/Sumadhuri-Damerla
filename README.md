@@ -28,6 +28,7 @@ ________________________________________________________________________________
 #### **Connect with me** on `Linkedin` for opportunities and `Instagram` for fun:
 ___________________________________________________________________________________________________________________________________
 [![Linkedin Badge](https://img.shields.io/badge/-Sumadhuri%20Damerla-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/sumadhuri-damerla//)](https://www.linkedin.com/in/sumadhuri-damerla/)
+
 ![Sumadhuri Damerla's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sumadhuri-Damerla&show_icons=true&theme=vue&count_private=true)
 ___________________________________________________________________________________________________________________________________
 
