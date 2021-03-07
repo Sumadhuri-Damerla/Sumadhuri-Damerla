@@ -24,7 +24,9 @@ ________________________________________________________________________________
 <code><img height="20" src="https://camo.githubusercontent.com/53790f8272a4b6d44df1c516ef71909834d177c7/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f646f636b65722e737667"></code>
 <code><img height="20" src="https://seeklogo.com/images/U/unity-logo-988A22E703-seeklogo.com.png"></code>
 ___________________________________________________________________________________________________________________________________
-
+#### `Here's a little insight into what motivates me:`
+My goal is to add a positive difference in the world and I enjoy designing systems and solving problems. Technology enables us to solve complex, challenging problems which can make a positive difference in the world.
+____________________________________________________________________________________________________________________________________
 #### **Connect with me** on `Linkedin` for opportunities and `Instagram` for fun:
 ___________________________________________________________________________________________________________________________________
 [![Linkedin Badge](https://img.shields.io/badge/-Sumadhuri%20Damerla-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/sumadhuri-damerla//)](https://www.linkedin.com/in/sumadhuri-damerla/)
