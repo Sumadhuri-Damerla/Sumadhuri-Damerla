@@ -34,4 +34,4 @@ ________________________________________________________________________________
 ![Sumadhuri Damerla's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sumadhuri-Damerla&show_icons=true&theme=vue&count_private=true)
 ___________________________________________________________________________________________________________________________________
 
-Fun facts: Love painting, watching anime, cooking new recipes!
+Fun facts: Painting, Anime, Cooking new recipes!
