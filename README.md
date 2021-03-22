@@ -2,7 +2,7 @@
 
 I am Suma. I'm constantly looking for things to learn and grow. 
 
-Enjoy working on new technologies and building new ideas
+Enjoy working on new technologies and building creative projects 
 
 I code for `Fun` in any language including:  
 | Java | C++/C | Python | Javascript | HTML | CSS | JS | 
